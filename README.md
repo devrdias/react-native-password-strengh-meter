@@ -2,9 +2,10 @@
 
 A nice UX input password strength meter.
 
-This project shows how to build a password strength meter in React Native using the **zxcvbn** password strength estimation library.
+This project shows how to build a password strength meter in React Native using the **zxcvbn** password strength estimation library and **React Hooks.**
 
 Did this project for learning purposes.
+
 
 ## Dependencies
 
