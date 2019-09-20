@@ -19,5 +19,5 @@ Did this project for learning purposes.
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/devrdias/react-native-password-strengh-meter/demo/demo.gif">
+  <img src="https://github.com/devrdias/react-native-password-strengh-meter/blob/master/demo/demo.gif">
 </p>
